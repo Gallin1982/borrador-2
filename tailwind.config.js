@@ -16,6 +16,11 @@ module.exports = {
         "very-pale-red": "hsl(13, 100%, 96%)",
         "vary-light-gray": "hsl(0, 0%, 98%)"
       },
+
+      backgroundImage: {
+        "close-menu": "url('../images/icon-close.svg')",
+        "open-menu": "url('../images/icon-hamburger.svg')",
+      }
     },
   },
   plugins: [],
